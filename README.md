@@ -13,6 +13,7 @@ Linguagens de Programação: Python
 Bibliotecas e Frameworks: Pandas, NumPy, OpenPyXL, PyAutoGUI, entre outras.
 Desenvolvimento: Visual Studio Code
 Interesses em expansão: Machine Learning e análise preditiva para contabilidade.
+
 🚀 Meu Propósito:
 Facilitar a vida de empresários e gestores com soluções contábeis inteligentes e inovadoras. Acredito que a tecnologia, quando bem aplicada, é um diferencial que transforma a forma como negócios enxergam seus dados e tomam decisões.
 
