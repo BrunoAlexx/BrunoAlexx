@@ -1,7 +1,7 @@
 👨‍💻 Bruno | Contador e Desenvolvedor Python
 
 🎯 Quem sou eu:
-Sou contador, com mais de 10 anos de experiência e proprietário de um escritório de contabilidade especializado em oferecer serviços personalizados e de alta qualidade para empresas de diversos setores. Desde 2021, venho aplicando programação em Python no meu trabalho e em projetos pessoais, buscando unir a contabilidade à tecnologia para entregar soluções inovadoras.
+Sou contador, com mais de 11 anos de experiência e proprietário de um escritório de contabilidade especializado em oferecer serviços personalizados e de alta qualidade para empresas de diversos setores. Desde 2021, venho aplicando programação em Python no meu trabalho e em projetos pessoais, buscando unir a contabilidade à tecnologia para entregar soluções inovadoras a equipe interna do escritório.
 
 💡 O que eu faço:
 Automação de tarefas: Crio scripts para otimizar atividades repetitivas no escritório, economizando tempo e garantindo eficiência para minha equipe e clientes.
